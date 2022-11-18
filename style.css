@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+.container{
+    width: 80%;
+    margin-inline: auto;
+}
+.text-box{
+    width: 90%;
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.outside-image{
+    width: 500px;
+    float: right;
+}
+.inside-image{
+    width: 500px;
+    float: left;
+    padding-right: 50px;
+}
+
